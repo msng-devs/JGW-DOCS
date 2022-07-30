@@ -1,0 +1,16 @@
+com.jaramgroupware.jaramgateway
+com.jaramgroupware.jaramgateway.config
+com.jaramgroupware.jaramgateway.domain.Error
+com.jaramgroupware.jaramgateway.domain.apiRoute
+com.jaramgroupware.jaramgateway.domain.config
+com.jaramgroupware.jaramgateway.domain.major
+com.jaramgroupware.jaramgateway.domain.member
+com.jaramgroupware.jaramgateway.domain.method
+com.jaramgroupware.jaramgateway.domain.rank
+com.jaramgroupware.jaramgateway.domain.role
+com.jaramgroupware.jaramgateway.domain.service
+com.jaramgroupware.jaramgateway.dto.member
+com.jaramgroupware.jaramgateway.dto.route
+com.jaramgroupware.jaramgateway.filters
+com.jaramgroupware.jaramgateway.service
+com.jaramgroupware.jaramgateway.utils
